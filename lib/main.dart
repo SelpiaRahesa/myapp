@@ -37,7 +37,6 @@ class MyApp extends StatelessWidget {
       appBar : AppBar(
         backgroundColor: Color.fromARGB(249, 245, 230, 198),
         centerTitle: true,
-        title: const Text('Belajar flutter'),
       ),
       body: HomeArtis(),
     ),

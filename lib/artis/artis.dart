@@ -5,59 +5,59 @@ import 'detail_artis.dart';
 class Artis extends StatelessWidget {
   final List<Map<String, dynamic>> artisData = [
     {
-      "nama": "KANGTA",
+      "nama": "Kangta",
       "debut": "1996",
-      "image": "assets/images/Kangta.jpg",
+      "image": "assets/images/kangtaaaa.jpg",
       "gallery": [
         "assets/images/Kangta.jpg",
-        "assets/images/Kangta.jpg",
-        "assets/images/Kangta.jpg"
+        "assets/images/kangta1.jpg",
+        "assets/images/kangta2.jpg"
       ],
-      "desc": "Ubud adalah sebuah destinasi wisata populer di Bali yang terkenal dengan seni, budaya, dan alam yang indah. Terletak di antara sawah dan jurang yang curam, Ubud menawarkan pengalaman yang tak terlupakan bagi wisatawan."
+      "desc": "Ahn Chil-Hyun lahir 10 Oktober 1979 dengan nama panggung Kangta. Ia adalah penyanyi pop dan R&B Korea Selatan. Pertama kali, ia menjadi pemimpin penyanyi di boyband H.O.T. dan menjadi penyanyi solo pada tahun 2001."
     },
     {
-      "nama": "Nusa Penida",
-      "kota": "Bali",
-      "image": "assets/images/nusapenida.jpg",
+      "nama": "Lucas",
+      "debut": "2020",
+      "image": "assets/images/lucas.webp",
       "gallery": [
-        "assets/images/nusapenida1.jpg",
-        "assets/images/nusapenida2.jpg",
-        "assets/images/nusapenida3.jpg",
+        "assets/images/lucas1.jpg",
+        "assets/images/lucas2.webp",
+        "assets/images/lucas3.jpg",
       ],
-      "desc": "Nusa Penida adalah sebuah pulau kecil di sebelah tenggara Bali, terkenal dengan pantai yang indah, tebing-tebing yang menakjubkan, dan kehidupan bawah laut yang luar biasa. Tempat ini ideal untuk snorkeling dan diving."
+      "desc": "Wong Yuk Hei, Huang Xuxi atau Lucas Wong adalah seorang penyanyi keturunan Tionghoa-Thai di bawah kontrak SM Entertainment. Ia adalah anggota grup vokal laki-laki NCT sub-unit NCT U dan WayV, serta anggota supergroup Korea, SuperM",
     },
     {
-      "nama": "Pantai Kuta",
-      "kota": "Bali",
-      "image": "assets/images/kuta.jpg",
+      "nama": "NCT 127",
+      "debut": "2017",
+      "image": "assets/images/nct127.jpg",
       "gallery": [
-        "assets/images/kuta1.jpg",
-        "assets/images/kuta2.jpg",
-        "assets/images/kuta3.jpg",
+        "assets/images/nct1271.jpg",
+        "assets/images/nct1272.jpg",
+        "assets/images/nct1273.jpg",
       ],
-      "desc": "Pantai Kuta adalah salah satu pantai paling terkenal di Bali, dikenal dengan pasir putihnya yang lembut, ombak yang cocok untuk berselancar, dan pemandangan matahari terbenam yang menakjubkan. Kuta juga menawarkan berbagai fasilitas hiburan malam."
+      "desc": "NCT 127 adalah sub-unit kedua dari grup vokal pria Korea Selatan NCT yang dibentuk oleh SM Entertainment Nama unit mereka merupakan kombinasi dari akronim Neo Culture Technology dan angka 127 yang mewakili koordinat bujur kota Seoul"
     },
     {
-      "nama": "Gunung Rinjani",
-      "kota": "Lombok",
-      "image": "assets/images/rinjani.jpg",
+      "nama":"NCT Dream",
+      "debut": "2016",
+      "image": "assets/images/nct.webp",
       "gallery": [
-        "assets/images/rinjani1.jpg",
-        "assets/images/rinjani2.jpg",
-        "assets/images/rinjani3.jpg",
+        "assets/images/nct1.jpeg",
+        "assets/images/nct2.webp",
+        "assets/images/nct3.webp",
       ],
-      "desc": "Gunung Rinjani adalah gunung berapi tertinggi kedua di Indonesia yang terletak di Pulau Lombok. Mendaki Gunung Rinjani menawarkan pemandangan spektakuler dan pengalaman yang menantang bagi para pendaki."
+      "desc": "NCT Dream adalah sub-unit ketiga dari boy band asal Korea Selatan NCT, yang khusus beranggotakan remaja dengan usia belasan tahun. Pada awalnya, sub-unit ini memiliki sistem kelulusan di mana anggota yang melampaui usia 20 akan keluar, tapi pada 2020, sistem ini diganti dan menjadikan NCT Dream sebagai unit tetap NCT"
     },
     {
-      "nama": "Ranca Upas",
-      "kota": "Bandung",
-      "image": "assets/images/rancaupas.jpg",
+      "nama": "WayV",
+      "debut": "2019",
+      "image": "assets/images/wayv.webp",
       "gallery": [
-        "assets/images/rancaupas1.jpg",
-        "assets/images/rancaupas2.jpg",
-        "assets/images/rancaupas3.jpg",
+        "assets/images/watv1.webp",
+        "assets/images/wayv2.jpeg",
+        "assets/images/wayv3.jpg",
       ],
-      "desc": "Ranca Upas adalah area perkemahan dan konservasi rusa yang terletak di Ciwidey, Bandung. Tempat ini menawarkan pengalaman berkemah yang unik dengan pemandangan alam yang indah dan udara sejuk."
+      "desc": "Wayv adalah grup vocal pria asal Tiongkok yang merupakan sub- unit keempat unit yang berbasis di Tiongkok dari NCT dan dikelola oleh sub-label Tiongkok SM Entertaiment, Label V."
     }
   ];
 
